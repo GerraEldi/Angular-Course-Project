@@ -119,5 +119,12 @@
       }
     }
   },
+  "schematics": {
+    "@schematics/angular": {
+      "component": {
+        "spec": false
+      }
+    }
+  },
   "defaultProject": "my-first-app"
 }
